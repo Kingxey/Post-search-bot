@@ -47,3 +47,6 @@ git clone https://github.com/your-username/ashi-bot
 cd ashi-bot
 docker build -t ashi-bot .
 docker run -d --env-file .env ashi-bot
+
+
+#Sorry, I didn't use MongoDB because I don't know enough about it, and I'm using Kali/Linux.
